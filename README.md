@@ -1,9 +1,8 @@
 **Hello, This project is about Scale Blob detection using Matlab.**
 # Team Members
-
-      1. Eng/ Eslam Hussein Mohamed.
-      2. Eng/ Nadine Ashraf Adeeb.
-      3. Eng/ Tasneem Yassin Mostafa.
+> Eslam Hussein Mohamed.                                                                                                                                                     
+> Nadine Ashraf Adeeb.                                                                                                                                                                              
+> Tasneem Yassin Mostafa.
 # Introduction 
 -The goal of the project is to implement a Laplacian Blob Detector.
 
